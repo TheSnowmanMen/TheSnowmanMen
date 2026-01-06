@@ -1,4 +1,5 @@
 ## Hi there 👋
+Newbie Coder hoping to learn about GitHub and its services
 
 <!--
 **TheSnowmanMen/TheSnowmanMen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
